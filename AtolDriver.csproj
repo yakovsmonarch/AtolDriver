@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Atol.Drivers10.Fptr">
+      <HintPath>C:\Program Files (x86)\ATOL\Drivers10\KKT\langs\csharp\Atol.Drivers10.Fptr.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
